@@ -1,0 +1,14 @@
+{
+  "name": "volt-life",
+  "version": "1.0.0",
+  "description": "VOLT LIFE - e-moto bikelife game with online multiplayer (game + server in one file)",
+  "private": true,
+  "type": "module",
+  "main": "volt-life-server.mjs",
+  "scripts": {
+    "start": "node volt-life-server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
